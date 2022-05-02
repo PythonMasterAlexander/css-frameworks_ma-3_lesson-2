@@ -1,0 +1,20 @@
+import React from "react";
+
+function Main() {
+  return(
+    <main>
+      <h1>Build the future</h1>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim 
+      veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea 
+      commodo consequat.
+      </p>
+      <section>
+        <button>Get started</button>
+        <button>Learn more</button>
+      </section>
+    </main>
+  );
+}
+
+export default Main;
